@@ -107,33 +107,38 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Dean was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dean's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dean is the ideal partner.",
+      "Working with Dean was a breath of fresh air.  We had a tight deadline for launching our new e-commerce platform, and Dean's dedication and focus were instrumental in getting us there on time and within budget.  He not only possesses exceptional technical skills but also has a keen understanding of user experience.  The platform is not only functional but also incredibly user-friendly, leading to a significant increase in conversions.  We can't thank Dean enough for his expertise and hard work!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
+    image: "https://www.freepik.com/free-photos-vectors/business-woman-avatar",
+  },
+  {
+    quote:
+      "I run a small bakery and desperately needed a website to showcase our treats and connect with customers. Dean made the entire process stress-free. He listened patiently to my ideas, offered valuable suggestions, and delivered a beautiful, user-friendly website that exceeded my expectations. Traffic to our site has grown significantly, and sales have followed suit. Thanks to Dean, my bakery is reaching a whole new audience!",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+    image: "https://www.freepik.com/free-photos-vectors/business-woman-avatar",
+  },
+  {
+    quote:
+      "As a marketing manager for a tech startup, I needed a website that was both informative and visually appealing. Dean's design sense and development skills were instrumental in creating a site that truly pops. He was incredibly flexible throughout the project, accommodating our ever-changing needs and exceeding deadlines consistently. Dean's a valuable asset to any team, and I wouldn't hesitate to recommend him.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+    image: "https://www.freepik.com/free-photos-vectors/business-woman-avatar",
   },
   {
     quote:
       "Collaborating with Dean was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dean's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dean is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Michael Chen",
+    title: "Data Scientist",
+    image: "https://www.freepik.com/free-photos-vectors/business-woman-avatar",
   },
   {
     quote:
-      "Collaborating with Dean was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dean's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dean is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Dean was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dean's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dean is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Dean was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dean's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dean is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Before working with Dean, I was struggling to navigate the complexities of e-commerce. My floral business, Blossoming Blooms, was thriving locally, but I lacked the online presence to reach a wider audience. Dean made the entire process stress-free. He listened patiently to my vision of a user-friendly platform that showcased the beauty of our flowers, and translated it into a reality that exceeded my expectations. Traffic to our website has soared, and sales have followed suit. Thanks to Dean, Blossoming Blooms is flourishing online!",
+    name: "Sarah Jones",
+    title: "CEO of Blossoming Blooms",
+    image: "https://www.freepik.com/free-photos-vectors/business-woman-avatar",
   },
 ];
 
@@ -180,8 +185,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Mobile App Dev",
+    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native and Expo.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
